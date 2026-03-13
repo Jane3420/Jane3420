@@ -1,14 +1,12 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jane</h1>
-<h3 align="center">Mastering the art of data wizardry 🧙‍♂️ | Business Analytics enthusiast and future coding maestro 🚀 | Unraveling insights at Macquarie University 📊</h3>
+<h3 align="center">Mastering the art of data wizardry 🧙‍♂️ | Business Analytics enthusiast and future coding maestro 🚀 | Unraveling insights at Mayo Hardware 📊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jane3420&label=Profile%20views&color=0e75b6&style=flat" alt="jane3420" /> </p>
 
-- 🔭 I’m currently working on [Data Science Project](https://github.com/orgs/MQ-COMP2200-COMP6200/repositories)
+- 🔭 I’m currently working on [Some of my projects](https://github.com/Jane3420?tab=repositories)
 
-- 🌱 I’m currently learning **Macquarie Data Science COMP6200**
-
-- 👯 I’m looking to collaborate on **Improving model through Regression**
+- 🌱 I am currently using **Qlik and Power BI** for my visualisations and analyses.
 
 - 🤝 I’m looking for help with **Insight analysis**
 
@@ -16,13 +14,13 @@
 
 - 📝 I regularly write articles on [https://github.com/Jane3420](https://github.com/Jane3420)
 
-- 💬 Ask me about **Data visualization and plotting**
+- 💬 Ask me about **Data visualisation and report automation**
 
-- 📫 How to reach me **minnhanh.tran@students.mq.edu.au**
+- 📫 How to reach me **janiesa.qut@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/orgs/MQ-COMP2200-COMP6200/repositories](https://github.com/orgs/MQ-COMP2200-COMP6200/repositories)
 
-- ⚡ Fun fact **Once analyzed so much data that my computer asked for a coffee break! ☕️🖥️**
+- ⚡ Fun fact **Once analysed so much data that my computer asked for a coffee break! ☕️🖥️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
