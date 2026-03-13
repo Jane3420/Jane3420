@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **janiesa.qut@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/orgs/MQ-COMP2200-COMP6200/repositories](https://github.com/orgs/MQ-COMP2200-COMP6200/repositories)
+- 📄 Know about my experiences [(https://github.com/Jane3420/My-Resume)](https://github.com/Jane3420/My-Resume)
 
 - ⚡ Fun fact **Once analysed so much data that my computer asked for a coffee break! ☕️🖥️**
 
